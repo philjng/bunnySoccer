@@ -8,4 +8,3 @@ arrow keys	- movement
 
 Game ends when first player reaches 3 points.
 Refresh the page to reset the game.
-Code is somewhat messy; project was rushed for completion.
